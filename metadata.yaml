@@ -1,0 +1,28 @@
+_repo: Die-Kneippkur-b-Eine-Wasserdichtung-fur-Gesunde-und-Kranke_74193
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Binder, Aloysius
+    gutenberg_agent_id: '57385'
+    url: http://www.gutenberg.org/2009/agents/57385
+description: ''
+gutenberg_issued: '2024-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74193'
+language: de
+pgterms:marc905: 20221231092707binder
+pgterms:marc906: '1890'
+pgterms:marc907: de
+production_note: Alpo Tiilikka and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aMünchen :$bBuchholz & Werner, $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hydrotherapy -- Poetry'
+- !lcc 'PT'
+- !lcc 'RM'
+- GITenberg
+title: 'Die Kneippkur : $b Eine Wasserdichtung für Gesunde und Kranke'
+url: http://www.gutenberg.org/ebooks/74193
