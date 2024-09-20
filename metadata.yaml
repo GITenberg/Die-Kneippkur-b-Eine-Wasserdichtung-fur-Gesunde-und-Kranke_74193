@@ -1,11 +1,16 @@
 _repo: Die-Kneippkur-b-Eine-Wasserdichtung-fur-Gesunde-und-Kranke_74193
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74193-h/images/cover.jpg
 creator:
   author:
     agent_name: Binder, Aloysius
     gutenberg_agent_id: '57385'
     url: http://www.gutenberg.org/2009/agents/57385
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74193#Die-Kneippkur-b-Eine-Wasserdichtung-fur-Gesunde-und-Kranke
 gutenberg_issued: '2024-08-05'
 gutenberg_type: Text
 identifiers:
